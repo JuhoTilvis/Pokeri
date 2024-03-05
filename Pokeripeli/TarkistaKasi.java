@@ -100,3 +100,4 @@ public class TarkistaKasi {
         return (onVari(pokerikasi) && onSuora(pokerikasi));
     }
 }
+    // käden tarkastus logiikka otettu https://stackoverflow.com/questions/20578974/checking-poker-hands
